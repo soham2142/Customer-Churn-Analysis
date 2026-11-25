@@ -46,7 +46,7 @@ Screenshots of the project workflow and dashboard mockups are available in the `
 
 The project is currently under development. The screenshots included in this repository are illustrative AI-generated mockups and are not verified outputs from the completed analysis.
 
-The dataset, analysis, and dashboard will be completed and updated with actual results.
+The dataset, analysis, and dashboard will be completed and updated with actual results shortly.
 
 ## Repository Structure
 ```text
